@@ -2,5 +2,20 @@ body{
     background-color:rgb(139, 196, 196);
 }
 h1{
-    color: aliceblue;
+    font-size: 50px;
+    text-align: center;
+    color: rgb(56, 119, 173);
+    font-family: Titan One;
+    font-weight: 4;
+}
+h2{
+    font-size: 30px;
+    color: rgb(34, 72, 105);
+    font-family: monospace;
+   
+    
+}
+a{
+
+    text-decoration: none;
 }
