@@ -36,4 +36,15 @@ a img, a h2{
 }
 a img{
     border-radius: 20px;
+    width: 700px;
+}
+p{
+    border-style: solid;
+    border-color: rgb(86, 136, 230);
+    font-size: 20px;
+    font-family: monospace;
+    color: rgb(55, 59, 80);
+    margin: 10px 400px 10px 100px;
+    padding: 10px;
+    background-color:aliceblue;
 }
